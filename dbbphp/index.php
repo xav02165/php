@@ -1,3 +1,5 @@
+//dbconnect
+
 <?php
 $host = 'db';
 $dbname = 'rpg';
